@@ -81,3 +81,5 @@ for(let i = 0; i < parts.length; i++){
     console.log(parts[i])
 
 }
+
+//This was hard
